@@ -23,6 +23,7 @@ namespace LayoutWPF_DockPanel_
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }
